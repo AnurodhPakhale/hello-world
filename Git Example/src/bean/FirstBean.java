@@ -1,5 +1,6 @@
 package bean;
 
+// class is defined earlier
 public class FirstBean {
 
 	public static void main(String[] args) {
