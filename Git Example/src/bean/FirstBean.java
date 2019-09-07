@@ -6,6 +6,7 @@ public class FirstBean {
 		// TODO Auto-generated method stub
 
 		System.out.println("Git Project");
+		System.out.println("Line added in github site");
 	}
 
 }
